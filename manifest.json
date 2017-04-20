@@ -1,0 +1,8 @@
+{
+  "name": "Webpi",
+  "description": "",
+  "icons": [{
+    "src": "icon.png",
+    "sizes": "16x16"
+  }]
+}
